@@ -1,0 +1,54 @@
+8
+
+dir
+11748
+http://svn.automattic.com/wordpress/tags/2.8.2/wp-includes/js/tinymce/plugins/paste/js
+http://svn.automattic.com/wordpress
+
+
+
+2009-05-22T22:08:17.222382Z
+11437
+azaozz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a063a9b-81f0-0310-95a4-ce76da25c4cd
+
+pasteword.js
+file
+
+
+
+
+2009-07-28T08:47:56.000000Z
+179e37760324b39e7d41b61bc707abb3
+2009-05-22T22:08:17.222382Z
+11437
+azaozz
+has-props
+
+pastetext.js
+file
+
+
+
+
+2009-07-28T08:47:56.000000Z
+9db07e9a6d27f06ee292ee9d0793a725
+2009-04-24T15:26:00.055454Z
+11078
+azaozz
+has-props
+

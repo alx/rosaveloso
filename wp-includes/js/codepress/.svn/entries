@@ -1,0 +1,89 @@
+8
+
+dir
+11748
+http://svn.automattic.com/wordpress/tags/2.8.2/wp-includes/js/codepress
+http://svn.automattic.com/wordpress
+
+
+
+2009-06-07T01:52:44.560537Z
+11530
+azaozz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a063a9b-81f0-0310-95a4-ce76da25c4cd
+
+license.txt
+file
+
+
+
+
+2009-07-28T08:47:52.000000Z
+adc05bf63f3776f4f7c2950825b770a9
+2009-02-21T02:12:00.871360Z
+10614
+azaozz
+has-props
+
+codepress.js
+file
+
+
+
+
+2009-07-28T08:47:52.000000Z
+aa0c74b76c8cc60de8737d59cb0e7cdf
+2009-06-07T01:52:44.560537Z
+11530
+azaozz
+has-props
+
+images
+dir
+
+languages
+dir
+
+engines
+dir
+
+codepress.html
+file
+
+
+
+
+2009-07-28T08:47:52.000000Z
+930e281d2080dfe3e2d1cacedca458d7
+2009-02-21T02:12:00.871360Z
+10614
+azaozz
+has-props
+
+codepress.css
+file
+
+
+
+
+2009-07-28T08:47:52.000000Z
+9ac88960aa13b291891f128267233040
+2009-02-21T02:12:00.871360Z
+10614
+azaozz
+has-props
+

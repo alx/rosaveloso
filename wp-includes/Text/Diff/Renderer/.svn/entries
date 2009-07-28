@@ -1,0 +1,41 @@
+8
+
+dir
+11748
+http://svn.automattic.com/wordpress/tags/2.8.2/wp-includes/Text/Diff/Renderer
+http://svn.automattic.com/wordpress
+
+
+
+2008-08-07T21:02:07.941199Z
+8581
+ryan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a063a9b-81f0-0310-95a4-ce76da25c4cd
+
+inline.php
+file
+
+
+
+
+2009-07-28T08:47:59.000000Z
+29ef69f38612d424595e338d43008746
+2008-08-07T21:02:07.941199Z
+8581
+ryan
+has-props
+

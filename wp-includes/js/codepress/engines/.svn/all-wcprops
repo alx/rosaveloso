@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/wordpress/!svn/ver/11730/tags/2.8.2/wp-includes/js/codepress/engines
+END
+older.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/wordpress/!svn/ver/11730/tags/2.8.2/wp-includes/js/codepress/engines/older.js
+END
+opera.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/wordpress/!svn/ver/11730/tags/2.8.2/wp-includes/js/codepress/engines/opera.js
+END
+gecko.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/wordpress/!svn/ver/11730/tags/2.8.2/wp-includes/js/codepress/engines/gecko.js
+END
+msie.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/wordpress/!svn/ver/11730/tags/2.8.2/wp-includes/js/codepress/engines/msie.js
+END
+khtml.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/wordpress/!svn/ver/11730/tags/2.8.2/wp-includes/js/codepress/engines/khtml.js
+END
