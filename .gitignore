@@ -2,3 +2,5 @@ wp-config.php
 wp-content/qdir/
 wp-content/thumbnail/
 wp-content/photoQCache/
+wp-content/main/
+wp-content/original/

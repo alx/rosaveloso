@@ -139,7 +139,7 @@ class phpthumb {
 	var $config_high_security_enabled                = false;
 	var $config_high_security_password               = null;
 	var $config_disable_debug                        = false;
-	var $config_allow_src_above_docroot              = false;
+	var $config_allow_src_above_docroot              = true;
 	var $config_allow_src_above_phpthumb             = true;
 	var $config_allow_parameter_file                 = false;
 	var $config_allow_parameter_goto                 = false;
@@ -812,6 +812,7 @@ class phpthumb {
 			$this->DebugMessage('ResolveSource() exiting because $this->rawImageData is set ('.number_format(strlen($this->rawImageData)).' bytes)', __FILE__, __LINE__);
 			return true;
 		}
+			$this->DebugMessage('===sourceFilename set to "'.$this->sourceFilename.'"', __FILE__, __LINE__);
 		if ($this->sourceFilename) {
 			$this->sourceFilename = $this->ResolveFilenameToAbsolute($this->sourceFilename);
 			$this->DebugMessage('$this->sourceFilename set to "'.$this->sourceFilename.'"', __FILE__, __LINE__);
