@@ -1,37 +1,0 @@
-8
-
-dir
-11748
-http://svn.automattic.com/wordpress/tags/2.8.2/wp-includes/js/tinymce/themes/advanced/skins
-http://svn.automattic.com/wordpress
-
-
-
-2009-03-27T12:57:25.056734Z
-10845
-azaozz
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-1a063a9b-81f0-0310-95a4-ce76da25c4cd
-
-o2k7
-dir
-
-default
-dir
-
-wp_theme
-dir
-
