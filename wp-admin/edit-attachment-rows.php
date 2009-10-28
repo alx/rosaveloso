@@ -6,7 +6,9 @@
  * @subpackage Administration
  */
 
-if ( ! defined('ABSPATH') ) die();
+// don't load directly
+if ( !defined('ABSPATH') )
+	die('-1');
 
 if ( have_posts() ) { ?>
 <table class="widefat fixed" cellspacing="0">
@@ -207,4 +209,3 @@ foreach ($posts_columns as $column_name => $column_display_name ) {
 <?php
 } // end if ( have_posts() )
 ?>
-
